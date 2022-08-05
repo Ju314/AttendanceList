@@ -9,4 +9,4 @@ Programming Attendance List with ReactJS, HTML5, CSS, JS.
 
 <br/>
 
-# Live version here: <a href="https://ju314.github.io/AttendanceList/" target="_blank">Link</a>
+# Live version here: <a href="https://attendance-list-jet.vercel.app/" target="_blank">Link</a>
